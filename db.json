@@ -44,6 +44,20 @@
       "date": "2019-02-02T23:27:00.000Z",
       "time": "1:00",
       "attendees": []
+    },
+    {
+      "id": 2036647,
+      "category": "sustainability",
+      "organizer": {
+        "id": "1",
+        "name": "Greg"
+      },
+      "title": "Working?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
